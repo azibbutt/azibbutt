@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @azibbutt
+- 👀 I’m interested in Data Analytics, Machine Learning
+- 🌱 I’m currently learning Data Analytics
+- 💞️ I’m looking to collaborate on Data Analytics and Machine Learning
+- 📫 Reach me @skyype:azibbutt4
